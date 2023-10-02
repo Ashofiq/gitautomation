@@ -14,5 +14,13 @@
             "Ashofiq\\gitautomation\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.1.3",
+        "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
 }
