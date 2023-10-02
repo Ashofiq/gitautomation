@@ -1,0 +1,18 @@
+{
+    "name": "ashofiq/gitautomation",
+    "description": "gitautomation",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Ashofiq",
+            "email": "ahmadshofiq3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ashofiq\\gitautomation\\": "src/"
+        }
+    },
+    "require": {}
+}
